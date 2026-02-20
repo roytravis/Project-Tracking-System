@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Database
+backend/data/
+
+# Environment
+.env
+
+# Build output
+frontend/dist/

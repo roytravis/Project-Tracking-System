@@ -1,0 +1,18 @@
+{
+    "name": "project-tracking-backend",
+    "version": "1.0.0",
+    "description": "Backend API for Project Tracking System (Sistem Pelacakan Proyek)",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "dev": "node --watch src/index.js",
+        "seed": "node src/seed.js"
+    },
+    "dependencies": {
+        "better-sqlite3": "^11.0.0",
+        "cors": "^2.8.5",
+        "express": "^4.21.0",
+        "express-validator": "^7.2.0",
+        "uuid": "^10.0.0"
+    }
+}
