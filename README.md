@@ -1,3 +1,7 @@
+## UI / UX Mockup
+
+![UI Mockup](ui_mockup.png)
+
 # ProjectTrack 
 
 A full-stack Project Tracking System built with **Node.js/Express** (backend) and **React/Vite** (frontend), using **SQLite** for data persistence.
